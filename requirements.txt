@@ -1,0 +1,7 @@
+tensorflow-gpu==2.0
+keras==2.2
+numpy
+cv2
+pydicom
+sklearn
+matplotlib
